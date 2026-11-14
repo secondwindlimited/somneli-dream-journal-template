@@ -11,6 +11,8 @@ Maintained by **[Somneli](https://somneli.secondwindltd.xyz/en/)**, the private 
 | [`dream-journal-template.md`](dream-journal-template.md) | One entry per dream: scene, feelings, images, links to waking life |
 | [`recurring-dream-worksheet.md`](recurring-dream-worksheet.md) | Comparing several dreams to spot recurring themes |
 | [`dream-journal-prompts.md`](dream-journal-prompts.md) | 30 prompts for mornings when the dream is slipping away |
+| [`DREAM-MEANINGS.md`](DREAM-MEANINGS.md) | 40 common dreams with the themes people often connect with them and a question to ask yourself |
+| [`data/dream-meanings.json`](data/dream-meanings.json) | The same list as JSON |
 
 ## How to keep a dream journal
 
@@ -19,6 +21,14 @@ Maintained by **[Somneli](https://somneli.secondwindltd.xyz/en/)**, the private 
 3. **Note images, not interpretations.** "An empty train station" is more useful later than "anxiety about change".
 4. **Tag themes in your own words.** Short tags like `late`, `old house`, `searching` make patterns visible.
 5. **Review weekly.** Use the recurring dream worksheet to compare entries.
+
+## What does my dream mean?
+
+No dream has one fixed meaning, but some images come up again and again. Each page below covers the themes people often connect with that dream, how the details change it, and questions for your own reflection:
+
+[Teeth falling out](https://somneli.secondwindltd.xyz/dream-meanings/teeth-falling-out/) · [Being chased](https://somneli.secondwindltd.xyz/dream-meanings/being-chased/) · [Falling](https://somneli.secondwindltd.xyz/dream-meanings/falling/) · [Flying](https://somneli.secondwindltd.xyz/dream-meanings/flying/) · [Snakes](https://somneli.secondwindltd.xyz/dream-meanings/snakes/) · [Spiders](https://somneli.secondwindltd.xyz/dream-meanings/spiders/) · [Drowning](https://somneli.secondwindltd.xyz/dream-meanings/drowning/) · [Being pregnant](https://somneli.secondwindltd.xyz/dream-meanings/being-pregnant/) · [An ex-partner](https://somneli.secondwindltd.xyz/dream-meanings/an-ex/) · [Being naked in public](https://somneli.secondwindltd.xyz/dream-meanings/being-naked-in-public/) · [Being late](https://somneli.secondwindltd.xyz/dream-meanings/being-late/) · [Taking an exam](https://somneli.secondwindltd.xyz/dream-meanings/taking-an-exam/)
+
+See all 40 in [`DREAM-MEANINGS.md`](DREAM-MEANINGS.md) or at **[somneli.secondwindltd.xyz/dream-meanings](https://somneli.secondwindltd.xyz/dream-meanings/)**. These are prompts for reflection, not predictions or diagnoses.
 
 ## Prefer not to copy files?
 
