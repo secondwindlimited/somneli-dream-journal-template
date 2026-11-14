@@ -1,0 +1,13 @@
+# GitHub Pages: https://secondwindlimited.github.io/somneli-dream-journal-template/
+title: "Free Dream Journal Template"
+description: "A free Markdown dream journal template, recurring dream worksheet and 30 dream journal prompts. By Somneli."
+url: https://secondwindlimited.github.io
+baseurl: /somneli-dream-journal-template
+lang: en
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: SECOND WIND LIMITED
+  url: https://secondwindltd.xyz/
