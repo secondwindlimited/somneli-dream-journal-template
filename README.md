@@ -1,5 +1,7 @@
 # Dream Journal Template (free, Markdown): record, track and understand your dreams
 
+🌐 **English** · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) <!-- languages -->
+
 **A free dream journal template in Markdown, plus a recurring dream worksheet and a list of dream journal prompts.** Copy it into Obsidian, Notion, Logseq, Apple Notes or a paper notebook and start tonight.
 
 Maintained by **[Somneli](https://somneli.secondwindltd.xyz/en/)**, the private dream journal app with mood notes, search, export and optional AI dream interpretation. [Get Somneli on Google Play](https://play.google.com/store/apps/details?id=xyz.secondwind.somneli).
@@ -46,6 +48,34 @@ Use the same tools free in your browser. No account, nothing uploaded:
 👉 [Somneli on Google Play](https://play.google.com/store/apps/details?id=xyz.secondwind.somneli) · [somneli.secondwindltd.xyz](https://somneli.secondwindltd.xyz/en/)
 
 Dream interpretations are prompts for reflection, not predictions, diagnoses or professional advice.
+
+<!-- faq -->
+## Frequently asked questions
+
+### How do I start a dream journal?
+
+Keep the [template](dream-journal-template.md) by your bed and write as soon as you wake, before you get up or check your phone. Start with the feeling, then the images, then anything from waking life it reminds you of.
+
+### Why do I forget my dreams so quickly?
+
+Dream memories fade fast once you start moving and thinking about the day. Writing a few words immediately, even just a feeling or one image, keeps far more than trying to recall the dream later.
+
+### Do dreams have universal meanings?
+
+No. The same image can mean different things to different people. Use common associations as starting points and check them against your own memories and circumstances.
+
+### What does my dream mean?
+
+Look it up in the **[40 common dream meanings](dreams/index.md)**, such as [teeth falling out](dreams/teeth-falling-out.md). Each page gives the themes people often connect with the dream and questions to ask yourself.
+
+### What do recurring dreams mean?
+
+A repeated theme is worth noticing, but it does not have one fixed meaning. Compare several entries with the [recurring dream worksheet](recurring-dream-worksheet.md) and look at what stays the same and what changes.
+
+### Is there a dream journal app with AI dream interpretation?
+
+Yes. [Somneli](https://play.google.com/store/apps/details?id=xyz.secondwind.somneli) keeps a private dream diary on your device and offers an optional AI reflection when you ask for one.
+<!-- /faq -->
 
 ## License
 
